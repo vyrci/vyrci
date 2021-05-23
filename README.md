@@ -1,7 +1,7 @@
  </p>
 <h2 align="center"> </> # vyrci/ten </> </h2>
 <p align="center">
-<img align="center" src="https://cdn.discordapp.com/avatars/405167364175298562/a_c6332a622d49548f7e1f34538093acd8.gif?size=256&f=.gif">
+<img align="center" src="https://media.tenor.com/images/e038a57e6b77c0c11d7f57d9b7e4246c/tenor.gif">
 </p>
 
 
